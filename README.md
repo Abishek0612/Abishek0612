@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/abishek-u" target="_blank">
+<a href="https://www.linkedin.com/in/abishek-u-63b059241/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
 </a>
   <a href="https://github.com/Abishek0612" target="_blank">
