@@ -1,42 +1,36 @@
-<!-- Title Section -->
-<h1 align="center">Hi there 👋, I'm Abishek</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Abishek</h1>
+<h3 align="center">A Full Stack Developer Enthusiast</h3>
 
-<!-- Project Section -->
-<p align="center">🚀 Currently working on <a href="https://github.com/Abishek0612/real-estate-client.git">Real Estate Project</a></p>
+- I am currently working on [Real- Estate](https://github.com/Abishek0612/real-estate-client.git) Project.
 
-<!-- Learning Section -->
-<p align="center">🌱 Currently diving deep into Next.js and AWS</p>
+- 🌱 I’m currently learning **Next.JS and AWS**
 
-<!-- Portfolio and Blog Section -->
-<p align="center">👨‍💻 Check out my projects at <a href="https://portfoliios.netlify.app/">Portfolio</a></p>
-<p align="center">📝 I also write about tech on my <a href="https://blog-i.netlify.app/">Blog</a></p>
+- 👨‍💻 All of my projects are available at [https://portfoliios.netlify.app/](https://portfoliios.netlify.app/)
 
-<!-- Ask Me Section -->
-<p align="center">💬 Ask me about React.js, Redux Toolkit, Node.js, Express.js, and MongoDB</p>
+- 📝 I regularly write articles on [https://blog-i.netlify.app/](https://blog-i.netlify.app/)
 
-<!-- Contact Section -->
-<p align="center">📫 Reach me at <a href="mailto:uabishek6@gmail.com">uabishek6@gmail.com</a></p>
+- 💬 Ask me about **React.JS, Redux Toolkit, Node.JS, Express.JS and MongoDB**
 
-<!-- Fun Fact Section -->
-<p align="center">⚡ Fun Fact: Did you know that I once debugged a tricky issue while sipping on my fifth cup of coffee, and the solution hit me just as I was contemplating switching to tea? Sometimes, the best code is brewed with a dash of caffeine inspiration! ☕✨ #CodingFuel</p>
+- 📫 How to reach me **uabishek6@gmail.com**
 
-<!-- Connect with Me Section -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/abishek-u-63b059241/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-  </a>
+- ⚡ Fun fact **Did you know that I once debugged a tricky issue while sipping on my fifth cup of coffee, and the solution hit me just as I was contemplating switching to tea? Sometimes, the best code is brewed with a dash of caffeine inspiration! ☕✨ #CodingFuel**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abishek-u-63b059241/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+</a>
   <a href="https://github.com/Abishek0612" target="_blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
   </a>
+  <a href="mailto:uabishek6@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript" />
+## Languages and Tools:
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
