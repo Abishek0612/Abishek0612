@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">A Full Stack Developer Enthusiast</h3>
+# Hi there! 👋, I'm Abishek
+A Full Stack Developer Enthusiast working on Real Estate projects.
 
-- I am currently working on [Real- Estate](https://github.com/Abishek0612/real-estate-client.git)
+🌱 I’m currently learning Next.js and AWS.
+💬 Ask me about React.js, Redux Toolkit, Node.js, Express.js, and MongoDB.
+👨‍💻 All of my projects are available at [My Portfolio](https://portfoliios.netlify.app/).
+📝 I regularly write articles on [My Blog](https://blog-i.netlify.app/).
+📫 How to reach me: [uabishek6@gmail.com](mailto:uabishek6@gmail.com)
 
-- 🌱 I’m currently learning **Next.JS and AWS**
+⚡ Fun fact: Did you know that I once debugged a tricky issue while sipping on my fifth cup of coffee, and the solution hit me just as I was contemplating switching to tea? Sometimes, the best code is brewed with a dash of caffeine inspiration! ☕✨ #CodingFuel
 
-- 👨‍💻 All of my projects are available at [https://portfoliios.netlify.app/](https://portfoliios.netlify.app/)
+## Connect with me:
+- GitHub: [abishek0612](https://github.com/abishek0612)
+- LinkedIn: [Your LinkedIn Profile]
 
-- 📝 I regularly write articles on [https://blog-i.netlify.app/](https://blog-i.netlify.app/)
-
-- 💬 Ask me about **React.JS, Redux Toolkit, Node.JS, Express.JS and MongoDB**
-
-- 📫 How to reach me **uabishek6@gmail.com**
-
-- ⚡ Fun fact **Did you know that I once debugged a tricky issue while sipping on my fifth cup of coffee, and the solution hit me just as I was contemplating switching to tea? Sometimes, the best code is brewed with a dash of caffeine inspiration! ☕✨ #CodingFuel**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abishek u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishek u" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abishek0612&show_icons=true&locale=en&layout=compact" alt="abishek0612" /></p>
+## Languages and Tools:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
